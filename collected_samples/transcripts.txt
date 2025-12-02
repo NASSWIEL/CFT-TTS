@@ -1,0 +1,10 @@
+Speaker: AD, Sample: sample1.wav, ID: DIVERS_BOOK_AD_01_0001_1006051_1009866, Transcript: Quelques meubles, couchette, table, banc, armoire, coffre, furent fabriqués
+Speaker: AD, Sample: sample2.wav, ID: DIVERS_BOOK_AD_01_0001_1022010_1025411, Transcript: Aristote a constaté les dimensions d'un calmar de cinq coudées
+Speaker: AD, Sample: sample3.wav, ID: DIVERS_BOOK_AD_01_0001_1054065_1057760, Transcript: La lampe électrique était combinée de manière à donner tout son pouvoir éclairant
+Speaker: AD, Sample: sample4.wav, ID: DIVERS_BOOK_AD_01_0001_1066619_1069079, Transcript: Vers midi un bruit très éloigné se fait entendre
+Speaker: AD, Sample: sample5.wav, ID: DIVERS_BOOK_AD_01_0001_1089695_1092562, Transcript: "Les baleiniers anglais lui ont donné le nom de "ice-blinck"."
+Speaker: NEB, Sample: sample1.wav, ID: ES_LMP_NEB_01_0001_1019579_1021239, Transcript: J'en ai encore des éblouissements
+Speaker: NEB, Sample: sample2.wav, ID: ES_LMP_NEB_01_0001_1030716_1033432, Transcript: il n'y a pas que Bras-Rouge qui habite cette maison, sans doute
+Speaker: NEB, Sample: sample3.wav, ID: ES_LMP_NEB_01_0001_1068796_1070898, Transcript: Puis, s'adressant à la Goualeuse
+Speaker: NEB, Sample: sample4.wav, ID: ES_LMP_NEB_01_0001_1104298_1105818, Transcript: Veux-tu venir, la Goualeuse
+Speaker: NEB, Sample: sample5.wav, ID: ES_LMP_NEB_01_0001_1110016_1113011, Transcript: mais de voir des batteries ça m'écoeure, je n'ai plus d'appétit
